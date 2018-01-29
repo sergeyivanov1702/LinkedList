@@ -1,7 +1,0 @@
-E:\Sergey\программы\C#\Epam interview\LinkedList_Generic\LinkedList_Generic\bin\Debug\LinkedList_Generic.exe.config
-E:\Sergey\программы\C#\Epam interview\LinkedList_Generic\LinkedList_Generic\bin\Debug\LinkedList_Generic.exe
-E:\Sergey\программы\C#\Epam interview\LinkedList_Generic\LinkedList_Generic\bin\Debug\LinkedList_Generic.pdb
-E:\Sergey\программы\C#\Epam interview\LinkedList_Generic\LinkedList_Generic\obj\Debug\LinkedList_Generic.csprojResolveAssemblyReference.cache
-E:\Sergey\программы\C#\Epam interview\LinkedList_Generic\LinkedList_Generic\obj\Debug\LinkedList_Generic.csproj.CoreCompileInputs.cache
-E:\Sergey\программы\C#\Epam interview\LinkedList_Generic\LinkedList_Generic\obj\Debug\LinkedList_Generic.exe
-E:\Sergey\программы\C#\Epam interview\LinkedList_Generic\LinkedList_Generic\obj\Debug\LinkedList_Generic.pdb
